@@ -1,7 +1,7 @@
-# Иван Иванов
+# Dmitry Makhin
 **.NET Backend Developer**
 
-## 🛠 Технологии
+## 🚀Технологии
 **Backend:** C#, .NET 6/8, ASP.NET Core, Entity Framework Core, Dapper
 **Databases:** PostgreSQL, SQL Server, Redis, RabbitMQ  
 **DevOps:** Docker, Kubernetes, Jenkins, Grafana, Azure
